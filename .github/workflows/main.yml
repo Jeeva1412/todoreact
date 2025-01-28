@@ -49,4 +49,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.KEY }}  # Use the secret key here
-          publish_dir: ./todo-app/build
+          publish_dir: ./build
