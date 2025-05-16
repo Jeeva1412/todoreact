@@ -24,7 +24,7 @@ function TodoApp() {
     <div className="container ">
       <div className="card " id="card" >
       <div className="card-body">
-      <h1 className="text-dark text-center card-title">Todo app</h1>
+      <h1 className="text-dark text-center card-title">Todo app with changes </h1>
 
       <form onSubmit={addTodo} className="mb-6 text-center d-flex justify-content-center mt-5" style={{ width: "100%", height: "100%" }}>
 
